@@ -1,4 +1,4 @@
-# check_audiocodes_sbc_alarms
+# check_isam_board_temperature
 
 A simple Nagios Plugin to monitor the temperature sensors of Nokia ISAM.
 
