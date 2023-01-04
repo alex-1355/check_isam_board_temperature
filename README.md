@@ -47,7 +47,7 @@ define service {
   service_description            ISAM Board Thermal-Status
   host_name                      hostname_isam
   use                            service-template-interval-5min
-  check_command                  check_isam_board_temperature!MY-SNMP-COMM!80!85!15!10
+  check_command                  check_isam_board_temperature!MY-SNMP-COMM!80!85!8!5
 }
 ````
 
