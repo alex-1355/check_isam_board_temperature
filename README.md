@@ -7,6 +7,7 @@ A simple Nagios Plugin to monitor the temperature sensors of Nokia ISAM.
 
 This script extracts the temperature sensors from Nokia ISAM devices via SNMPv2.
 Thresholds can be defined in both directions (high and low temperature).
+As new linecards are added to the chassis the SNMP-OIDs are automatically polled and added to the output.
 
 ### Dependencies
 
