@@ -1,5 +1,7 @@
 # check_isam_board_temperature
 
+This plugin is no longer maintained as it was rewritten and integrated into [check_nokia_isam](https://github.com/alex-1355/check_nokia_isam)
+
 A simple Nagios Plugin to monitor the temperature sensors of Nokia ISAM.
 
 
